@@ -1,0 +1,25 @@
+/* Exemplo de style.css */
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://aliger.com.br/wp-content/uploads/2018/04/184442-deep-learning-saiba-o-que-e-e-como-funciona-na-pratica.jpg'); /* Substitua com o caminho real da sua imagem */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: ;
+    color: #fff; /* Cor do texto para ser legível na imagem de fundo */
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+ 
+}
+
+p {
+   
+
+/* Outros estilos específicos do seu conteúdo podem ser adicionados aqui */
